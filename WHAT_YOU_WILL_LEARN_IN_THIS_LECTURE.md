@@ -20,3 +20,9 @@ grid 布局目前没有办法单独设置某一行、某一列的 gap 大小。
 -   Using `object-fit` together with images for grid items.
 
 `object-fit: cover` 只有在手动设置了`width`和`height`之后才会生效。
+
+116.Building the Footer
+
+-   Apply the concepts you already learned.
+
+想要使得段落居中，可以设置`margin-left: auto; margin-right: auto;`。
