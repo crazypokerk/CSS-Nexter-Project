@@ -23,10 +23,15 @@ grid 布局目前没有办法单独设置某一行、某一列的 gap 大小。
 
 116.Building the Footer
 
--   Apply the concepts you already learned.
+Apply the concepts you already learned.
 
 想要使得段落居中，可以设置`margin-left: auto; margin-right: auto;`。
 
 117.Building the Sidebar
 
--   Apply the concepts you already learned.
+Apply the concepts you already learned.
+
+118.Building the Header Part 1 ~ 2
+
+-   How to manage vertical spacing in a responsive layout using CSS Grid techniques;
+-   How to use `::before` and `::after` as grid items.
