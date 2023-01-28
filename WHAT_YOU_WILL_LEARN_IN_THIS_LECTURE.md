@@ -11,3 +11,5 @@
 112.Building the Homes Scetion Part 1 ~ 2
 
 -   How to build a rather complex component using a mix of CSS Grid properties, overlapping and flexbox.
+
+grid 布局目前没有办法单独设置某一行、某一列的 gap 大小。
