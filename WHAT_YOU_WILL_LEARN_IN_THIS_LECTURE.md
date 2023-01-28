@@ -35,3 +35,5 @@ Apply the concepts you already learned.
 
 -   How to manage vertical spacing in a responsive layout using CSS Grid techniques;
 -   How to use `::before` and `::after` as grid items.
+
+伪类元素也可以占据网格布局，所以如果有伪类元素也可以使用`grid`布局。
