@@ -26,3 +26,7 @@ grid 布局目前没有办法单独设置某一行、某一列的 gap 大小。
 -   Apply the concepts you already learned.
 
 想要使得段落居中，可以设置`margin-left: auto; margin-right: auto;`。
+
+117.Building the Sidebar
+
+-   Apply the concepts you already learned.
