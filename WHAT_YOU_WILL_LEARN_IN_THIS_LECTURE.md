@@ -13,3 +13,10 @@
 -   How to build a rather complex component using a mix of CSS Grid properties, overlapping and flexbox.
 
 grid 布局目前没有办法单独设置某一行、某一列的 gap 大小。
+
+114.Building the Gallery Part 1 ~ 2
+
+-   How to create a complex grid-looking gallery;
+-   Using `object-fit` together with images for grid items.
+
+`object-fit: cover` 只有在手动设置了`width`和`height`之后才会生效。
